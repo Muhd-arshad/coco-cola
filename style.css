@@ -1,0 +1,222 @@
+body {
+    margin: 0%;
+    overflow-x: hidden;
+
+}
+
+.main {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    background-color: #fff;
+   
+    
+
+
+}
+
+.main-t {
+    
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    
+
+}
+.p1{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    
+    
+
+}
+.p2{
+    font-family: 'Poppins', sans-serif;
+    font-size: small;
+}
+
+.background-image {
+    height: 560px;
+    width: 100%;
+    background-image: url(https://www.coca-colacompany.com/content/dam/journey/us/en/responsible-business/sustainable-business/www-design-masthead-1440x480.jpg);
+    background-size: cover;
+}
+.move1{
+    display: flex;
+    height:200px;
+    width: 100%;
+
+
+}
+.child{
+    width: 97%;
+    height: 434px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 1136px;
+    margin-top: 95px;
+}
+.child1{
+    display: flex;
+    width: 100%;
+    height:100px;
+    flex-direction: column;
+    margin-left: 161px;
+    margin-top: 187px;
+}
+.child2{
+    margin-top: 13%;
+    margin-left: 1091px;
+     
+
+}
+.move5{
+     
+    position: relative;
+    top: 117px;
+    left: 183px;
+}
+
+
+
+
+.background-image1 {
+    height: 553px;
+    width: 103%;
+    background-image: url(https://www.coca-colacompany.com/content/dam/journey/us/en/home-page/desktop/woman-fills-water-jug.png);
+    background-size: cover;
+    margin-top: -2%;
+    margin-left: -3px;
+
+
+
+}
+
+
+
+.background-image2 {
+    height: 560px;
+    width: 100%;
+    background-image: url(https://www.coca-colacompany.com/content/dam/journey/us/en/home-page/coca-cola-racial-equality-1440x848.png);
+    background-size: cover;
+}
+
+.background-image3 {
+    height: 560px;
+    width: 100%;
+    background-image: url(https://www.coca-colacompany.com/content/dam/journey/us/en/home-page/coca-cola-portfolio-homepage-1440x848.png);
+    background-size: cover;
+}
+
+
+
+.background-image4 {
+    height: 560px;
+    width: 100%;
+    background-image: url(https://www.coca-colacompany.com/content/dam/journey/us/en/landing-pages/sustainable-agriculture-woman-farmer-horizontal.jpg);
+    background-size: cover;
+}
+
+.background-image5 {
+    height: 560px;
+    width: 100%;
+    background-image: url(https://www.coca-colacompany.com/content/dam/journey/us/en/home-page/home-position-6.jpg  );
+    background-size: cover;
+}
+
+.move {
+    height: 78%;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    justify-content: end;
+    margin-left: 8%;
+    position: relative;
+    top: 11%;
+
+    
+    align-items: center;
+    
+
+
+
+
+}
+
+.footer {
+    margin-top: 1px ;
+    width: 100%;
+    height: 183px;
+    background-color: #4A4A4A;
+
+}
+
+.write {
+
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+
+}
+
+.content {
+    
+    width: 59%;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 16%;
+    margin-right: 0%;
+    margin-top: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    justify-content: space-evenly;
+}
+
+.content2{
+    
+    width: 138%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: -292px
+    
+   
+}
+.content3{
+    height: 40px;
+    width: 20%;
+  display: flex;
+    justify-content: space-evenly;
+}
+.style{
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-size: small;
+    
+   
+}
+    h1{
+    margin: 0;
+}
+    
+
+
